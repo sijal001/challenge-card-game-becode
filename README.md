@@ -37,7 +37,7 @@ There are only 2 branches Main and Dev because of its simplicity.
 
 ### README.md
 ---
-* Detail infomation and brief og 
+* Detail infomation and briefs.
 
 ### main.py
 ---
@@ -51,13 +51,17 @@ In other words, it has 3 files:
 
 i. card.py
 	* This is where the 52 cards for the card game are developed and generated. 
+	
 	* This is also where the card deck is packed, shuffled and distributed to the players. 
 
 ii. player.py
 	* This is where the player would select the card randomly during it's turn 
+	
 	* The player can choose which card to play if you choose the interactive version. 
+	
 iii. game.py
 	* This is where the actual codes for the game are. 
+	
 	* Here you can see a board class which shows the game's mechanics and how the game works.
 
 # Pending...
@@ -65,4 +69,4 @@ iii. game.py
 * What type of game to play.
 * Point system
 
-#Thank you for reading
+# Thank you for reading
