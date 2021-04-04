@@ -17,6 +17,6 @@ class Card(Symbol):
         self.values = values  # value of the card
         self.icon = icon # icon of the card
         
-        
+    # returns the object representation in string format developer    
     def __repr__(self):
         return '<{} {}>'.format(self.values, self.icon) # display all the important information
